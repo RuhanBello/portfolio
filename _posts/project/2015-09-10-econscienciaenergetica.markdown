@@ -8,10 +8,10 @@ categories:
 img: ECO.jpg
 thumb: thumb02.jpg
 carousel:
-- ECO.png
 - ECO01.png
 - ECO02.png
 - ECO03.png
+- ECO04.png
 website:
 ---
 A educative game produced for Eletrobras Distribução Piauí, in order to educate students of public schools in the Piauí state, about Energy Efficiency, Selective Collection and Environmental Preservation.
