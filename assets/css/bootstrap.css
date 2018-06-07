@@ -1474,7 +1474,7 @@ th {
 table col[class*="col-"] {
   position: static;
   display: table-column;
-  float: none;
+  float: left;
 }
 table td[class*="col-"],
 table th[class*="col-"] {
