@@ -8,7 +8,7 @@ categories:
 img: ArkRushShort.png
 thumb: thumb02.jpg
 carousel:
-- Arkane Rush - Capa01.png
+- Arkane RushBig.png
 website: https://www.facebook.com/ArkaneRush/
 ---
 This is the main projet I am working on, at Mafu Games. It is a roguelike spellcasting game, in which you control an aged mage with the mission to discover the devil plans of the one who is stealing the arcane magic from the core of the world.
