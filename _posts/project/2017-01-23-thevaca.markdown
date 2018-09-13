@@ -1,14 +1,18 @@
 ---
 layout: project
-title:  "Arkane Rush"
+title:  "Quantum Mage Rush"
 date:   2018-01-01 16:54:46
 author: Mafu Games
 categories:
 - project
-img: ArkRushShort.png
+img: MageRushShort.png
 thumb: thumb02.jpg
 carousel:
-- Arkane RushBig.png
-website: https://www.facebook.com/ArkaneRush/
+- MageRush00.JPG
+- MageRush01.JPG
+- MageRush02.JPG
+- MageRush03.JPG
+website: https://www.photonengine.com/en-US/Quantum
 ---
-This is the main projet I am working on, at Mafu Games. It is a roguelike spellcasting game, in which you control an aged mage with the mission to discover the devil plans of the one who is stealing the arcane magic from the core of the world.
+This is a very special project that we (Mafu Games) did as freelancers for Exit Games. This project is a technology demonstration of Exit Game's powerful tool called Quantum, a revolutionary technology that has come to make the development of online games much better.
+Here, we created a fast paced spellcasting game as a showcase on how Quantum can create amazing multiplayer experiences.
