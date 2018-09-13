@@ -8,10 +8,10 @@ categories:
 img: MageRushShort.png
 thumb: thumb02.jpg
 carousel:
-- MageRush00.JPG
-- MageRush01.JPG
-- MageRush02.JPG
-- MageRush03.JPG
+- MageRush00.png
+- MageRush01.png
+- MageRush02.png
+- MageRush03.png
 website: https://www.photonengine.com/en-US/Quantum
 ---
 This is a very special project that we (Mafu Games) did as freelancers for Exit Games. This project is a technology demonstration of Exit Game's powerful tool called Quantum, a revolutionary technology that has come to make the development of online games much better.
